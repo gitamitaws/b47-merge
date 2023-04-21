@@ -1,2 +1,3 @@
 # b47-merge
-#new file
+This is new file
+
